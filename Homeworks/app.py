@@ -1,5 +1,4 @@
 
-import random
 from itertools import *
 capacity = 36
 x = {"kg":5,"price":100}
